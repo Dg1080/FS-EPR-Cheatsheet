@@ -8,7 +8,7 @@ Each behaviour has its definition, strength relations (with definitions) and exa
 
 ## How to Use 
 
-The easiest way to use this documentation is to view it through the github pages which can be found at the following URL - https://jgwinnett.github.io/FS-EPR-CHEATSHEET/. 
+The easiest way to use this documentation is to view it through the github pages which can be found at the following URL - https://dg1080.github.io/FS-EPR-Cheatsheet/. 
 
 You are, of course, free to clone/fork this repo for use on a local machine, if desired. 
 
