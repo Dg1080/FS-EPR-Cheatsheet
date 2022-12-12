@@ -2,8 +2,6 @@
 
 ## Intro
 
-I got fed up of having to cross reference multiple documents when I want to know what a behaviour should look like, so I made this. 
-
 Each behaviour has its definition, strength relations (with definitions) and examples for levels three (HEO/SEO) and four (Grade 7 / 6), 
 
 ## How to Use 
@@ -41,7 +39,7 @@ You are, of course, free to clone/fork this repo for use on a local machine, if 
 
 ### Empowering 
 
-* [Enabler](leadership/enabler.md)
+* [Adaptable](leadership/adaptable.md)
 * [Inclusive](leadership/inclusive.md)
 * [Mediator](leadership/mediator.md)
 * [Resilient](leadership/resilient.md)
