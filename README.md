@@ -39,7 +39,7 @@ You are, of course, free to clone/fork this repo for use on a local machine, if 
 
 ### Empowering 
 
-* [Adaptable](leadership/adaptable.md)
+* [Enabler](leadership/enabler.md)
 * [Inclusive](leadership/inclusive.md)
 * [Mediator](leadership/mediator.md)
 * [Resilient](leadership/resilient.md)
